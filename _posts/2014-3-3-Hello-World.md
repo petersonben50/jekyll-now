@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: IAGLR 2017
 ---
 
 ### A Really "Great" Conference: IAGLR 2017
