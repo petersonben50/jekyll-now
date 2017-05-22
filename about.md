@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'll get some information up here soon. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email me](mailto:petersonben50@gmail.com)
